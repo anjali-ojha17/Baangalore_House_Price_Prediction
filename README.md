@@ -29,10 +29,6 @@ Ensure the following are installed:
    git clone https://github.com/your-username/bangalore-house-price-prediction.git
    cd bangalore-house-price-prediction
    ```
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
 3. Start the Flask server:
    ```bash
    python app.py
